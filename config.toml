@@ -1,0 +1,4 @@
+baseURL = "https://decoration-sibiliku4.vercel.app"
+languageCode = "en-us"
+title = "Beauty Home Decor Away"
+theme = "hugo-theme-minos"
